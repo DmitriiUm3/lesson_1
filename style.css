@@ -2,16 +2,41 @@
     margin: 0;
     padding: 0;
     }
+    
+colhxdgfjhgmbcmmmc
 
 .container{
     max-width: 1140px;
     margin: 0 auto;
+    border: 2px solid;
 }
 
 .btn-cart {
-    margin-top: 45px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-left: 90%;
+    padding: 15px;
+    font-style: italic;
+    /* background-color: rgb(68, 177, 250); */
+
 }
+
+.by-btn {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.p {
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.h3 {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
 
 .products {
     border: 3px solid;
